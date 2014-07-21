@@ -1,0 +1,25 @@
+{
+  "name": "connect-cache-headers",
+  "version": "0.0.1",
+  "description": "Middleware to set cache headers to responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lucastschmidt/connect-cache-headers"
+  },
+  "keywords": [
+    "express",
+    "connect",
+    "cache",
+    "headers"
+  ],
+  "author": "Lucas Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucastschmidt/connect-cache-headers/issues"
+  },
+  "homepage": "https://github.com/lucastschmidt/connect-cache-headers"
+}
