@@ -3,7 +3,7 @@ module.exports = function(age, private) {
   if (private){
     cacheType = "private";
   }
-  var control = cacheType + ", max-age:" + age;
+  var control = cacheType + ", max-age=" + age;
   return function(req, res, next) {
     res.setHeader("Cache-Control", control);
     res.removeHeader("Pragma");
