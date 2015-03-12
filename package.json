@@ -1,6 +1,6 @@
 {
   "name": "connect-cache-headers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Middleware to set cache headers to responses.",
   "main": "index.js",
   "scripts": {
